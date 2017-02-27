@@ -1,0 +1,3 @@
+# Dictpedia
+
+http://dictpedia.org
